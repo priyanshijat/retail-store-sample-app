@@ -1,4 +1,4 @@
-# AWS Containers Retail Sample - my services 
+# AWS Containers Retail Sample - my new services 
 
 <!-- Test commit -->
 
